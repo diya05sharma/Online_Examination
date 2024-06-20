@@ -1,3 +1,2 @@
 # Online-Exam-System-
-Online examination system is a app for setup online quiz with so many functionality.
-It is a PHP project.
+Web-based Application for conducting online MCQ-based tests, where users can give tests, and check scores and the admin may create, add, or remove tests, using technology HTML, CSS, JavaScript, PHP, and MySQL.
